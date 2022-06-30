@@ -5,8 +5,9 @@ Originally this project was to create a vote count report based on the election 
 
 
 ## Results
-•	The total number of votes for this election was 369,711.  To get the total number of votes counted I initialized a total vote counter. 
-link vote counter
+•The total number of votes for this election was 369,711.  To get the total number of votes counted I initialized a total vote counter. 
+
+![This is an image]()<img width="211" alt="Total vote counter" src="https://user-images.githubusercontent.com/106712521/176578790-6d845ff6-8805-4cf3-854c-515e4acffa58.png">
 
 •	There were three different counties in the election Arapahoe, Denver and Jefferson. Here is a list of the total percentage of votes each county received along with the total number of votes.
 
