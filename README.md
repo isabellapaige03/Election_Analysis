@@ -16,7 +16,10 @@ Originally this project was to create a vote count report based on the election 
     o	Jefferson:10.5% Total Votes = 38,855
               
  We used the following code to calculate the percentages for each county.
-	LINK PERCENTAGE OF VOTES HERE
+	
+	
+![This is an image]()<img width="347" alt="percentage of votes" src="https://user-images.githubusercontent.com/106712521/176578976-ce319967-4d37-4065-924a-0179da889dfb.png">
+
 
 •The county with the largest number of votes was Denver with 306,055 votes. To find the county with the largest turn out I started by tracking largest county and county voter turnout. 
 
