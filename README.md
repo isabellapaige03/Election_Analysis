@@ -5,11 +5,11 @@ Originally this project was to create a vote count report based on the election 
 
 
 ## Results
-• The total number of votes for this election was 369,711.  To get the total number of votes counted I initialized a total vote counter. 
+• The total number of votes for this election is 369,711.  To get the total number of votes counted I initialized a total vote counter. 
 
 ![This is an image]()<img width="211" alt="Total vote counter" src="https://user-images.githubusercontent.com/106712521/176578790-6d845ff6-8805-4cf3-854c-515e4acffa58.png">
 
-• There were three different counties in the election Arapahoe, Denver and Jefferson. Here is a list of the total percentage of votes each county received along with the total number of votes.
+• There were three different counties in the election, Arapahoe, Denver and Jefferson. Here is a list of the total percentage of votes each county received along with the total number of votes.
 
     o	Denver: 82.8%   Total Votes = 306,055
     o	Arapahoe: 6.7% Total Votes = 24,801
@@ -21,7 +21,7 @@ Originally this project was to create a vote count report based on the election 
 ![This is an image]()<img width="347" alt="percentage of votes" src="https://user-images.githubusercontent.com/106712521/176578976-ce319967-4d37-4065-924a-0179da889dfb.png">
 
 
-• The county with the largest number of votes was Denver with 306,055 votes. To find the county with the largest turn out I started by tracking largest county and county voter turnout. 
+• The county with the largest number of votes was Denver with 306,055 votes. To find the county with the largest turnout I started by tracking largest county and county voter turnout. 
 
 
 
@@ -38,7 +38,7 @@ Then I wrote a decision statement that would add the county with the largest vot
 	o Raymon Anthony Doane: 3.1%   Total Votes = 24,801
 
 
-To find the percentage of the total votes for each candidate we used the code below.
+To find the percentage of the total votes for each candidate I used the code below.
 
 
 ![This is an image]"()<img width="344" alt="candidate vote precentage" src="https://user-images.githubusercontent.com/106712521/176583689-0e549807-595f-4754-8a67-544031e711af.png">
