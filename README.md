@@ -52,3 +52,11 @@ To find the percentage of the total votes for each candidate we used the code be
 To determine the winner and the get the voting percentages I used the following code.
 
 ![This is an image]()<img width="394" alt="Winning vote " src="https://user-images.githubusercontent.com/106712521/176584028-beb6d260-9758-4e11-b3e9-d2829bea255c.png">
+
+## Summary 
+  This script can be modified to audit all elections the commission has. One way you can customize this script for a new election is to change the source of your data. 
+Link file to load
+
+You can change the data easily by replacing (“Resources”, “election_results.csv”) with a different file path. 
+If the data was provided, we could modify this script to add the population size of each county to further our analysis
+
