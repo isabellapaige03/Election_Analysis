@@ -41,7 +41,7 @@ Then I wrote a decision statement that would add the county with the largest vot
 To find the percentage of the total votes for each candidate we used the code below.
 
 
-LINK Candidate vote percentage
+![This is an image]"()<img width="344" alt="candidate vote precentage" src="https://user-images.githubusercontent.com/106712521/176583689-0e549807-595f-4754-8a67-544031e711af.png">
 
 • The winner of this Congressional election is Diana DeGette with a total of 272,892 votes and 73.8% of the total votes. 
 
