@@ -5,7 +5,8 @@ Originally this project was to create a vote count report based on the election 
 
 
 ## Results
-•	The total number of votes for this election was 369,711.  To get the total number of votes counted I initialized a total vote counter. LINK TOTAL VOTE COUNTER HERE
+•	The total number of votes for this election was 369,711.  To get the total number of votes counted I initialized a total vote counter. 
+link vote counter
 
 •	There were three different counties in the election Arapahoe, Denver and Jefferson. Here is a list of the total percentage of votes each county received along with the total number of votes.
 
@@ -13,12 +14,16 @@ Originally this project was to create a vote count report based on the election 
     o	Arapahoe: 6.7% Total Votes = 24,801
     o	Jefferson:10.5% Total Votes = 38,855
               
-              We used the following code to calculate the percentages for each county.
+ We used the following code to calculate the percentages for each county.
 	LINK PERCENTAGE OF VOTES HERE
 
-•	The county with the largest number of votes was Denver with 306,055 votes. To find the county with the largest turn out I started by tracking largest county and county voter turnout. 
-LINK INTIALIZED VOTES HERE
- 
+•The county with the largest number of votes was Denver with 306,055 votes. To find the county with the largest turn out I started by tracking largest county and county voter turnout. 
+
+
+
+![This is an image]()<img width="296" alt="Intialized turnout " src="https://user-images.githubusercontent.com/106712521/176578240-112d8641-8b34-46dd-b846-61bc9849ab0d.png">
+
+
 Then I wrote a decision statement that would add the county with the largest vote count to the two variables I created above. 
 
 ![This is an image]()<img width="424" alt="IF Statement" src="https://user-images.githubusercontent.com/106712521/176576404-d0eaea6a-fea6-4e2c-8dfb-5b10720c5125.png">
