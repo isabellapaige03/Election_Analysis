@@ -51,4 +51,4 @@ To find the percentage of the total votes for each candidate we used the code be
 
 To determine the winner and the get the voting percentages I used the following code.
 
-Link winning vote
+![This is an image]()<img width="394" alt="Winning vote " src="https://user-images.githubusercontent.com/106712521/176584028-beb6d260-9758-4e11-b3e9-d2829bea255c.png">
