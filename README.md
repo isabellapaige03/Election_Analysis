@@ -55,8 +55,11 @@ To determine the winner and the get the voting percentages I used the following 
 
 ## Summary 
   This script can be modified to audit all elections the commission has. One way you can customize this script for a new election is to change the source of your data. 
-Link file to load
+
+
+![This is an image]()<img width="553" alt="file to load" src="https://user-images.githubusercontent.com/106712521/176586510-0e04c9b7-68a8-4993-aed0-f72505cb05f0.png">
 
 You can change the data easily by replacing (“Resources”, “election_results.csv”) with a different file path. 
-If the data was provided, we could modify this script to add the population size of each county to further our analysis
+
+If the data was provided, we could modify this script to add the population size of each county to further our analysis.
 
