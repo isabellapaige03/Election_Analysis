@@ -46,6 +46,9 @@ To find the percentage of the total votes for each candidate we used the code be
 • The winner of this Congressional election is Diana DeGette with a total of 272,892 votes and 73.8% of the total votes. 
 
 
+![This is an image]()<img width="160" alt="Winner" src="https://user-images.githubusercontent.com/106712521/176583879-52a59004-ad38-41e8-8038-cc943abf8f71.png">
+
+
 To determine the winner and the get the voting percentages I used the following code.
 
 Link winning vote
