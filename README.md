@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Project
-Originally this project was to create a vote count report based on the election ballots for a Colorado election commisssion. Instead of using excel, the manager wanted to know if we could use python to automate the process. After completing this report, the election commission asked for new data to finish the audit. In this analysis you will find the total number votes cast, the county with the largest turnout and the winning candidate along with their vote count and their precntage of the total votes.
+Originally this project was to create a vote count report based on the election ballots for a Colorado election commisssion. Instead of using excel, the manager wanted to know if we could use python to automate the process. After completing this report, the election commission asked for new data to finish the audit. In this analysis you will find the total number of votes cast, the county with the largest turnout and the winning candidate along with their total vote count and their precntage of the total votes.
 
 
 ## Results
